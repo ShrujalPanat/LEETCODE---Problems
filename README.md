@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ShrujalPanat/leetcode-problems/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/ShrujalPanat/leetcode-problems/tree/master/0029-divide-two-integers) |
 | [2235-add-two-integers](https://github.com/ShrujalPanat/leetcode-problems/tree/master/2235-add-two-integers) |
 | [2651-calculate-delayed-arrival-time](https://github.com/ShrujalPanat/leetcode-problems/tree/master/2651-calculate-delayed-arrival-time) |
 ## Hash Table
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShrujalPanat/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/ShrujalPanat/leetcode-problems/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
