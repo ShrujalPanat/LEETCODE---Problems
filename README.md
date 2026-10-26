@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/ShrujalPanat/leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/ShrujalPanat/leetcode-problems/tree/master/0029-divide-two-integers) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ShrujalPanat/leetcode-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2235-add-two-integers](https://github.com/ShrujalPanat/leetcode-problems/tree/master/2235-add-two-integers) |
 | [2651-calculate-delayed-arrival-time](https://github.com/ShrujalPanat/leetcode-problems/tree/master/2651-calculate-delayed-arrival-time) |
 ## Hash Table
