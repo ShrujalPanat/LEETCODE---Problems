@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/ShrujalPanat/leetcode-problems/tree/master/0029-divide-two-integers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ShrujalPanat/leetcode-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShrujalPanat/leetcode-problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/ShrujalPanat/leetcode-problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2169-count-operations-to-obtain-zero](https://github.com/ShrujalPanat/leetcode-problems/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/ShrujalPanat/leetcode-problems/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/ShrujalPanat/leetcode-problems/tree/master/2413-smallest-even-multiple) |
