@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShrujalPanat/leetcode-problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2169-count-operations-to-obtain-zero](https://github.com/ShrujalPanat/leetcode-problems/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/ShrujalPanat/leetcode-problems/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/ShrujalPanat/leetcode-problems/tree/master/2413-smallest-even-multiple) |
 | [2651-calculate-delayed-arrival-time](https://github.com/ShrujalPanat/leetcode-problems/tree/master/2651-calculate-delayed-arrival-time) |
 ## Hash Table
 |  |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2169-count-operations-to-obtain-zero](https://github.com/ShrujalPanat/leetcode-problems/tree/master/2169-count-operations-to-obtain-zero) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/ShrujalPanat/leetcode-problems/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
