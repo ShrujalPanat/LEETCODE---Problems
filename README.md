@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShrujalPanat/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ShrujalPanat/leetcode-problems/tree/master/0012-integer-to-roman) |
+| [0058-length-of-last-word](https://github.com/ShrujalPanat/leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0709-to-lower-case](https://github.com/ShrujalPanat/leetcode-problems/tree/master/0709-to-lower-case) |
 ## Sliding Window
 |  |
