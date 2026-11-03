@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ShrujalPanat/leetcode-problems/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/ShrujalPanat/leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/ShrujalPanat/leetcode-problems/tree/master/0029-divide-two-integers) |
+| [0507-perfect-number](https://github.com/ShrujalPanat/leetcode-problems/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ShrujalPanat/leetcode-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShrujalPanat/leetcode-problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ShrujalPanat/leetcode-problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
